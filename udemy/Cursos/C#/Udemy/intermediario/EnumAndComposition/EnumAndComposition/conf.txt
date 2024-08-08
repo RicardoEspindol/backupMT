@@ -1,0 +1,2 @@
+crtl + kd = formatação do código
+ctrl + fn + f5 = rodar o programa de console

@@ -1,0 +1,14 @@
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\bin\Debug\net8.0\SectionSeven.exe
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\bin\Debug\net8.0\SectionSeven.deps.json
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\bin\Debug\net8.0\SectionSeven.runtimeconfig.json
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\bin\Debug\net8.0\SectionSeven.dll
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\bin\Debug\net8.0\SectionSeven.pdb
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\SectionSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\SectionSeven.AssemblyInfoInputs.cache
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\SectionSeven.AssemblyInfo.cs
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\SectionSeven.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\SectionSeven.dll
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\refint\SectionSeven.dll
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\SectionSeven.pdb
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\SectionSeven.genruntimeconfig.cache
+C:\Cursos\C#\Udemy\SectionSeven\SectionSeven\obj\Debug\net8.0\ref\SectionSeven.dll

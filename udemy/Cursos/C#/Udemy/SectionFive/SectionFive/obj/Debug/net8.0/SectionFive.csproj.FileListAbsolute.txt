@@ -1,0 +1,14 @@
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.exe
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.deps.json
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.runtimeconfig.json
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.dll
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\bin\Debug\net8.0\SectionFive.pdb
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.AssemblyInfoInputs.cache
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.AssemblyInfo.cs
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.dll
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\refint\SectionFive.dll
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.pdb
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\SectionFive.genruntimeconfig.cache
+C:\Cursos\C#\Udemy\SectionFive\SectionFive\obj\Debug\net8.0\ref\SectionFive.dll

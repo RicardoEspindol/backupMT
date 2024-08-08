@@ -1,0 +1,40 @@
+git config = espessificar credenciais do usuário
+git init = inicializa o repositorio local
+git status = verifica o status de modificação dos arquivos do sistema
+git add . = bota os arquivos prontos para commitar (area de stage)
+git commit -m "x" = descreve mudanças do estado atual do codigo
+git remote add origin "url do repositorio no github" = conectar o repositorio local ao respositorio remoto
+git push -u origin main = ao primeiro push é necessário fazer para linkar os dois
+git log = traz o historico de commits 
+git log --oneline = traz os commits de forma simplificada (mensagens do commit)
+git checkout = muda temporariamente de commit para apenas visualização de dados
+git checkout head~x = volta a quantidade x de commits anteriores
+git checkout "hash do commit" = vai para um commit especifico
+git checkout "nome da branch" = volta para o head de commits da branch
+git pull = atualiza/sincroniza o repositorio da branch ao qual esta inserida com a mesma remota
+git clone = clona o repositorio com o historicos de commit e suas branchs
+git reset = retira as modificações da area de stage (git add)
+
+--------- desfazer mudanças não salvas
+git reset
+git clean -df
+git checkout -- .
+
+--------- apagar commit mantendo alterações
+git reset --soft head~1 
+
+--------- apagar commits e voltar todo o projeto para determinado estado de commit (se não tiver salvo no repos remoto não tem como voltar atrás)
+git reset --hard (head~x ou hash do commit)
+git pull origin (nome da branch) = reverte o comando anterior se ele estiver no remoto
+
+---------- se abrir o VIM no git clica a teca "i" para editar
+aperta "esc" para sair do mode de edição 
+e clica wq
+
+
+--------- resolvendo conflito
+git pull origin "branch"
+resolve os conflitos e faz um  novo commit+push
+
+
+git push -f = força o push que prevalece o seu local, desconsiderando o remoto totalmente

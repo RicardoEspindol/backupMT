@@ -1,0 +1,14 @@
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\bin\Debug\net8.0\EnumAndComposition.exe
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\bin\Debug\net8.0\EnumAndComposition.deps.json
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\bin\Debug\net8.0\EnumAndComposition.runtimeconfig.json
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\bin\Debug\net8.0\EnumAndComposition.dll
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\bin\Debug\net8.0\EnumAndComposition.pdb
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\EnumAndComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\EnumAndComposition.AssemblyInfoInputs.cache
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\EnumAndComposition.AssemblyInfo.cs
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\EnumAndComposition.csproj.CoreCompileInputs.cache
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\EnumAndComposition.dll
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\refint\EnumAndComposition.dll
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\EnumAndComposition.pdb
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\EnumAndComposition.genruntimeconfig.cache
+C:\Cursos\C#\Udemy\intermediario\EnumAndComposition\EnumAndComposition\obj\Debug\net8.0\ref\EnumAndComposition.dll
